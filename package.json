@@ -2,7 +2,7 @@
   "name": "Basic-REST-API",
   "version": "1.0.0",
   "description": "Just another basic REST API",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js"
